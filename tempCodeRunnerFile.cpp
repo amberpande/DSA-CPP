@@ -1,0 +1,5 @@
+ while (space)
+        {
+            cout<<" ";
+            space--;
+        }
